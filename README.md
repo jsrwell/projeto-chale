@@ -1,4 +1,4 @@
-# Projeto Noticias Cidade
+# Projeto Chalé Hotel
 
 Este projeto representa um site de inscrições em um chalé ficticio com desenvolvimento um pouco mais aprimorado para responsividade, usando HTML e CSS apenas.
 
